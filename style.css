@@ -1,0 +1,42 @@
+.x:hover {
+    color: aqua;
+    cursor: pointer;
+    background-color: cadetblue;
+}
+
+.contact {
+    margin-top: 50px;
+    box-shadow: 4px 4px 8px blue;
+    border-radius: 10px;
+}
+
+.submit {
+    background-color: rgb(99, 99, 100);
+    color: rgb(71, 214, 227);
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+}
+
+.Contact {
+    box-shadow: 4px 4px 8px blue;
+}
+
+.content-me {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.massage {
+    width: 250px;
+    height: 100px;
+    box-shadow: 4px 4px 8px blue;
+}
+
+.foot {
+    box-shadow: 4px 4px 8px rgb(18, 18, 217);
+}
+
+.port {
+    box-shadow: 4px 4px 8px blue;
+}
